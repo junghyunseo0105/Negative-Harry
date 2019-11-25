@@ -9,6 +9,6 @@
 <img src="https://user-images.githubusercontent.com/48713654/69543384-d63a9880-0fd0-11ea-90de-ccd8b5a4a00a.png">
 
 개요
-* 아이템
-* 
-* 대회 출전
+* 상황 (컨셉)
+* 아이템 소개
+* 의의 (대회출전)
